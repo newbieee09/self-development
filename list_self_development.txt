@@ -1,0 +1,10 @@
+List Self Development :
+- Belajar dasar - dasar GIT
+- Belajar Frontend Development
+    + Belajar Bootstrap UI
+    + Belajar Javascript
+- Belajar Laravel
+    + Belajar dasar MVC
+    + Belajar dasar Routes
+    + Belajar dasar Controller
+    + Belajar dasar Model
