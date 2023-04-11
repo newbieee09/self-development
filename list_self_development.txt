@@ -8,3 +8,7 @@ List Self Development :
     + Belajar dasar Routes
     + Belajar dasar Controller
     + Belajar dasar Model
+- Belajar MySQL
+    + Belajar DML
+    + Belajar DDL
+    + Sertifikasi BASIC MySQL di W3School
